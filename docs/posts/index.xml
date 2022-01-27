@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 12 Scorpio</title>
+    <link>12scorpio.com/posts/</link>
+    <description>Recent content in Posts on 12 Scorpio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>M. Maret 2022</copyright>
+    <lastBuildDate>Thu, 27 Jan 2022 21:22:09 +0000</lastBuildDate><atom:link href="12scorpio.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What This Is Not</title>
+      <link>12scorpio.com/posts/what-this-is-not/</link>
+      <pubDate>Thu, 27 Jan 2022 21:22:09 +0000</pubDate>
+      
+      <guid>12scorpio.com/posts/what-this-is-not/</guid>
+      <description>This is not a &amp;ldquo;blog&amp;rdquo;. What a terrible word to inflict on the world! This is not a sales pitch, a tutorial site, or free labor in hopes of landing a job.
+While there are a lot of (likely boring and nuanced, to most people) opinions here, which may be mildly controversial to a tiny slice of computer people, this is not a place of Opinions. This is not a place of wanking, whining, whinging, or ranting.</description>
+    </item>
+    
+  </channel>
+</rss>
