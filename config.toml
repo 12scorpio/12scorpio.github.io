@@ -1,0 +1,37 @@
+baseURL = "12scorpio.com"
+languageCode = "en-us"
+title = "12 Scorpio"
+theme="archie"
+copyright = "M. Maret 2022"
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+[params]
+	mode="dark"
+	useCDN=false
+	subtitle = "the work log of M. Maret"
+
+[[params.social]]
+name = "GitHub"
+icon = "github"
+url = "https://github.com/12scorpio"
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "All posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "About"
+url = "/about"
+weight = 3
+
+[[menu.main]]
+name = "Tags"
+url = "/tags"
+weight = 4
