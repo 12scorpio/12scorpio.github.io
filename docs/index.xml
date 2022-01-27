@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>12 Scorpio</title>
+    <link>12scorpio.com/</link>
+    <description>Recent content on 12 Scorpio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>M. Maret 2022</copyright><atom:link href="12scorpio.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>12scorpio.com/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>12scorpio.com/archives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>12scorpio.com/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>12scorpio.com/about/</guid>
+      <description>This blog is only a place for me to work out my thoughts in public, in a place I can point colleagues to as needed.
+I am a software engineer focused primarily on embedded Linux, device firmware, and new ways to address old problems.</description>
+    </item>
+    
+  </channel>
+</rss>

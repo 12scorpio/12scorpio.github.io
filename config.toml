@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "12 Scorpio"
 theme="archie"
 copyright = "M. Maret 2022"
+publishDir = "docs"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
