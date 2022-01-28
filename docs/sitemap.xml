@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>12scorpio.com/</loc>
+    <loc>https://12scorpio.com/</loc>
     <lastmod>2022-01-27T21:22:09+00:00</lastmod>
   </url><url>
-    <loc>12scorpio.com/posts/</loc>
+    <loc>https://12scorpio.com/posts/</loc>
     <lastmod>2022-01-27T21:22:09+00:00</lastmod>
   </url><url>
-    <loc>12scorpio.com/posts/what-this-is-not/</loc>
+    <loc>https://12scorpio.com/posts/what-this-is-not/</loc>
     <lastmod>2022-01-27T21:22:09+00:00</lastmod>
   </url><url>
-    <loc>12scorpio.com/archives/</loc>
+    <loc>https://12scorpio.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>12scorpio.com/about/</loc>
+    <loc>https://12scorpio.com/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>12scorpio.com/categories/</loc>
+    <loc>https://12scorpio.com/categories/</loc>
   </url><url>
-    <loc>12scorpio.com/tags/</loc>
+    <loc>https://12scorpio.com/tags/</loc>
   </url>
 </urlset>

@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 12 Scorpio</title>
-    <link>12scorpio.com/categories/</link>
+    <link>https://12scorpio.com/categories/</link>
     <description>Recent content in Categories on 12 Scorpio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>M. Maret 2022</copyright><atom:link href="12scorpio.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>M. Maret 2022</copyright><atom:link href="https://12scorpio.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
